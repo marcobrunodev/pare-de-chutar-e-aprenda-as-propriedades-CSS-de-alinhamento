@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+ul, ol, li {
+    list-style: none;
+}
