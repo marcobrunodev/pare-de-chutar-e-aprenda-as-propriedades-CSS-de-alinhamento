@@ -3,7 +3,9 @@
     padding: 0;
     border: 0;
 }
-
-ul, ol, li {
-    list-style: none;
+body {
+    font-family: "Open Sans", sans-serif;    
 }
+    ul, ol, li {
+        list-style: none;
+    }
