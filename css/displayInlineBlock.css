@@ -4,8 +4,6 @@
 }
 
     .example-item {
-        width: 33.333%;
-        height: 150px;
         display: inline;
     }
     .example-item_first {
