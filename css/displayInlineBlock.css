@@ -4,7 +4,7 @@
 }
 
     .example-item {
-        display: inline;
+        display: block;
         width: 33.333%;
         height: 150px;
     }
