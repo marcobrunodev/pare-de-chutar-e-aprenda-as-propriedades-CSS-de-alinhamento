@@ -5,6 +5,8 @@
 
     .example-item {
         display: inline;
+        width: 33.333%;
+        height: 150px;
     }
     .example-item_first {
         background-color: #FAA116;
