@@ -5,7 +5,7 @@
 
     .example-item {
         display: block;
-        width: 20%;
+        width: 33.333%;
         height: 150px;
     }
     .example-item_first {
@@ -17,4 +17,6 @@
     }
     .example-item_third {
         background-color: #3B97D3;
+        margin-right: auto;
+        margin-left: auto;
     }
