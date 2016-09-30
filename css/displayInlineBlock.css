@@ -5,7 +5,7 @@
     .example-item {
         width: 25%;
         height: 150px;
-        display: inline;
+        display: inline-block;
     }
     .example-item_first {
         background-color: #FAA116;
