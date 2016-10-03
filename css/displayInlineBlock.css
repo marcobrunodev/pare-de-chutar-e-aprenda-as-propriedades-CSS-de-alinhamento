@@ -7,7 +7,6 @@
         width: 25%;
         height: 150px;
         display: inline-block;
-        margin-bottom: 10px;
     }
     .example-item_first {
         background-color: #FAA116;
@@ -18,6 +17,3 @@
     .example-item_third {
         background-color: #3B97D3;
     }
-p {
-    text-align: justify;
-}
