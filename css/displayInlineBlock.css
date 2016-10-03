@@ -1,6 +1,6 @@
 .example {
     color: #FFF;
-    text-align: right;
+    text-align: center;
 }
 
     .example-item {
@@ -18,5 +18,5 @@
         background-color: #3B97D3;
     }
 p {
-    text-align: right;
+    text-align: center;
 }
