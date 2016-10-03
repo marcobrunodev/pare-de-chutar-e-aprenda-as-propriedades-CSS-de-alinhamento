@@ -5,6 +5,9 @@
 .example:after {
     content: 'Ω…¬˚∆ø¥åß';
     color: red;
+    display: inline-block;
+    width: 100%;
+    height: 0;
 }
 
     .example-item {
