@@ -3,7 +3,7 @@
     text-align: justify;
 }
 .example:after {
-    content: 'Ω…¬˚∆ø¥åß';
+    content: '';
     color: red;
     display: inline-block;
     width: 100%;
