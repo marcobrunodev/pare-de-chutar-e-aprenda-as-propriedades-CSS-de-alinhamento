@@ -1,5 +1,6 @@
 .wrap-elementExample {
   background-color: #27ae60;
+  overflow: hidden;
 }
 
 .elementExample {
